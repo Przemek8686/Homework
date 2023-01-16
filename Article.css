@@ -1,0 +1,62 @@
+.article {
+    max-width: 600px;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 8px rgb(73, 3, 225);
+    margin: 20px auto;
+}
+
+.article--dark {
+    background: rgb(128, 200, 188);
+    margin: 20px auto;
+}
+
+.article--dark .article__paragraph {
+    color: rgb(222, 14, 14);
+    margin: 20px auto;
+}
+
+.article__header {
+    color: rgb(34, 2, 163);
+    margin-bottom: 20px auto;
+    padding: 10px;
+}
+
+.article__paragraph {
+    color: darkslategrey;
+    margin: 20px auto;
+}
+
+.article__paragraph--highlighted {
+    color: royalblue;
+    margin: 20px auto;
+}
+
+.article__link{
+    background-color: aquamarine;
+}
+.table{
+    background-color: aqua;
+    padding: 20px;
+    border: 5px solid blue;
+}
+
+.table__Caption{
+    background-color: rgb(55, 55, 219);
+    border: 5px solid blue;
+}
+.table__Cell{
+    background-color:aqua;
+    padding: 10px;
+    border: 5px solid blue;
+}
+
+.table__Row{
+    background-color:aqua;
+    padding: 10px;
+    
+}
+
+.table__Cell--Header{
+    background-color: rgb(0, 255, 174);
+    margin-top: 10px;
+}
