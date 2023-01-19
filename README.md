@@ -4,5 +4,5 @@ Słupca Wita - is a website presenting my hometown. On the website, you can find
 
 ## Demo
 
-![Słupca](https://github.com/Przemek8686/Homework/blob/3f3bb07f6e5e34032a7c7c027d986ec85f14418a/Image/Animation.gif)
+![Słupca] (https://github.com/Przemek8686/Homework/blob/main/Image/Animation1.gif)
 
