@@ -1,0 +1,23 @@
+.element {
+    margin: 100px auto;
+    max-width: 1000px;
+}
+
+
+
+.Omnie {
+    color: blue;
+}
+
+.Dane {
+    color: crimson;
+}
+
+.Doswiadczenie {
+    color: rgb(230, 15, 179);
+}
+
+.Hobby {
+    color: #0707a9;
+    background-color: aquamarine;
+}
