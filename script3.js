@@ -3,14 +3,7 @@
         console.log("Witam Wszystkich!");
 
     }
-    const init = () => {
-
-        const button = document.querySelector(".button");
-        button.addEventListener("click", ToggleBackground);
-    }
-    init()
-
-    const ToggleBackground = () => {
+    const onChangeBackgroundCilck = () => {
         const themeName = document.querySelector(".themeName");
         const body = document.querySelector(".body");
         body.classList.toggle("dark");
@@ -26,7 +19,12 @@
 
 
     };
+    const init = () => {
 
+        const button = document.querySelector(".button");
+        button.addEventListener("click", onChangeBackgroundCilck);
+    }
+    init()
     welcome();
 }
 
