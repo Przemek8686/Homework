@@ -92,3 +92,20 @@
 .sliders{
     overflow: auto;
 }
+
+.readme{
+    color: brown;
+    text-decoration: none;
+    padding: 10px;
+}
+.readme:visited{
+    color: blue;
+}
+.readme:focus{
+    outline: 2px solid currentColor;
+}
+
+.readme:active{
+    color:burlywood
+}
+
