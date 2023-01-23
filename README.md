@@ -4,7 +4,7 @@ Słupca Wita - is a website presenting my hometown. On the website, you can find
 
 ## Demo
 
-![Słupca] (https://github.com/Przemek8686/Homework/blob/main/Image/Animation1.gif)
+![Słupca] ()
 
 ### Languages and used technologies
 HTML,CSS,JS,BEM
