@@ -7,18 +7,9 @@
         const themeName = document.querySelector(".themeName");
         const body = document.querySelector(".body");
         body.classList.toggle("dark");
-
-        if (body.classList.contains("dark")) {
-            themeName.innerText = "Jasne";
-        }
-        else {
-            themeName.innerText = "Ciemne";
-
-        }
-
-
-
+        themeName.innerText = body.classList.contains("dark") ? "Jasny" : "Ciemne";
     };
+
     const init = () => {
 
         const button = document.querySelector(".button");
